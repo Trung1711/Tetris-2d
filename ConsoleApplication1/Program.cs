@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             int x;
             int y;
+            int z;
         }
     }
 }
